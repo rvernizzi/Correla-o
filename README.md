@@ -1,4 +1,4 @@
-# Neste projeto melhorei o meu conheciemento sobre técnicas de ETL e correlação
+# Neste projeto aprimorei meus conhecimentos sobre técnicas de ETL e de correlação
 # Objetivo deste estudo: Comparar os gastos através da análise de correlação entre gastos com saúde e outras variáveis de um banco de dados
 # Ferramenta utilizada: R
 # Pacotes: library(car); library(haven); library(QuantPsyc); library(boot); library(magrittr); library(openxlsx); library(tibble); library(forcats); library(tibble)
